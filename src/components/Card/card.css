@@ -92,4 +92,7 @@
     .card {
         min-width: fit-content;
     }
+    .card:hover {
+        outline: none; 
+    }
 }
